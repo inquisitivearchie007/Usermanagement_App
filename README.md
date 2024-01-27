@@ -8,7 +8,7 @@ This is a simple web application for managing user details with CRUD operations.
 ## Setup Instructions
 
 1. Clone the repository to your local machine:
-2. Open the `Arpitkhandelwal_assignment.html` file in a web browser to run the application.
+2. Open the `Arpit_assignment.html` file in a web browser to run the application.
 
 ## Functionality
 
